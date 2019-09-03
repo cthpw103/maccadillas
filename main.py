@@ -15,6 +15,7 @@ self.add(lol) # AND THIS TOO
 switcht = Gtk.Button.new_with_label("Nearest McDonald's") # ok i had to look at example aaaaaa
 switcht.connect("clicked", self.nearest) # frick idk how to gui so yeah i had to l ook at exampleand thanks example
 def nearest():
+# TODO: add code for finder    
     nearest.get()
 # get app
 maccas = requests.get("https://www.mcdonalds.com/us/en-us.html")
