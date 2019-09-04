@@ -3,9 +3,9 @@ desktop client for mcdonald's!
 
 ## contributors
 
-[https://github.com/prometheus1337](t3nt) - creator and main developer
+[t3nt/prometheus1337](https://github.com/prometheus1337) - creator and main developer
 
-[https://github.com/yc8690347](sig from discord/yanderechan) - contributed some endpoints
+[sig from discord/yanderechan](https://github.com/yc8690347) - contributed some endpoints
 
 contributors are always welcome! :)
 
